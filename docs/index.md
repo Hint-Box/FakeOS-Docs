@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Bienvenido a la documentación de FakeOS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Introducción
+FakeOS es un **simulador** (No _emulador_) de terminal, una computadora de fantasía (Fantasy Computer), como mejor se conoce a 
+este tipo de programas, la finalidad de este es ayudarte a aprender a utilizar la consola de sistemas basados en UNIX, tal 
+como MacOS/OSX y GNU/Linux. Esta aplicación está escrita en una combinación de dos lenguajes de programación estrechamente 
+relacionados, de los que hablaremos más adelante: [Python y Cython](##Python y Cython).
