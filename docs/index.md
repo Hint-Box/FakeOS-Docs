@@ -6,5 +6,3 @@ este tipo de programas. La finalidad de esta herramienta es ayudarte a aprender 
 tal como MacOS y GNU/Linux, además de enseñarte lo básico de la lógica de programación. Esta aplicación está escrita en una 
 combinación de dos lenguajes de programación estrechamente relacionados, de los que hablaremos más adelante: 
 [Python y Cython](#python-y-cython).
-
-# Test
