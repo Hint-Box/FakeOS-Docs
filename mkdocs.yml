@@ -1,2 +1,7 @@
 site_name: FakeOS Documentation
-theme: readthedocs
+site_description: Un simulador de terminal amigable cuyo propósito es enseñar a los usuarios nuevos sobre el uso de terminales reales (principalemente en sistemas UNIX), fácilmente escalable y con una guía e instalación paso a paso.
+site_author: DaBitWisersWay Team
+repo_url: https://github.com/Hint-Box/FakeOS
+lang: es
+theme:
+    name: readthedocs
