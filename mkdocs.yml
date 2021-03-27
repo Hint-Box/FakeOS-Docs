@@ -8,4 +8,4 @@ theme:
     name: readthedocs
 
 nav:
-    -Instalación: 'instalation.md'
+    - Instalación: 'instalation.md'
