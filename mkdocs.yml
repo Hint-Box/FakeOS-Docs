@@ -6,3 +6,6 @@ edit_uri: https://github.com/Hint-Box/FakeOS-Docs/tree/main/docs
 
 theme:
     name: readthedocs
+
+nav:
+    Test: 'test.md'
